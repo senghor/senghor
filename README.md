@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Albert! <br/><a href="https://github.com/senghor">Software Engineer</a>
 
-<!--
-**senghor/senghor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Practicing DS & Algos in Typescript & Python](https://certificate.algoexpert.io/AE-c7a3bc6a0d)
+- <b>Full Stack Web App (React, NodeJS, TypeScript, NextJS, MERN, Tailwind CSS)</b>
+  - [Learning Management System With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres, and Tailwind CSS](https://github.com/senghor/lms)
+   - [A Web Based System to Manage Ports Operations With Typescript, NextJS, Tailwind CSS, AuthJS, and PostgreSQL](https://github.com/senghor/ports)
+   - [YouTube Homepage With Tailwind CSS, React, and Typescript](https://github.com/senghor/ports)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Docker & Apache Kafka</b>
+  - [How to get started with Kafka, NodeJS & ExpressJS](https://github.com/senghor/express-kafka)
+  - [A Multi-Node Kafka Cluster in Docker using KRaft](https://github.com/senghor/kafka-in-docker)
+  - [A Starting Point for Writing a NodeJS Microservice](https://github.com/senghor/express-client)
+ 
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
