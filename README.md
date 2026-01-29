@@ -8,7 +8,7 @@
   - [Learning Management System With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres, and Tailwind CSS](https://github.com/senghor/lms)
    - [A Web Based System to Manage Ports Operations With Typescript, NextJS, Tailwind CSS, AuthJS, and PostgreSQL](https://github.com/senghor/ports)
    - [YouTube Homepage With Tailwind CSS, React, and Typescript](https://github.com/senghor/ports)
-
+<br/>
 - <b>Docker & Apache Kafka</b>
   - [A Multi-Node Apache Kafka Cluster in Docker and Node.js for Microservices](https://github.com/senghor/express-kafka)
  
