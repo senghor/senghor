@@ -10,9 +10,8 @@
    - [YouTube Homepage With Tailwind CSS, React, and Typescript](https://github.com/senghor/ports)
 
 - <b>Docker & Apache Kafka</b>
-  - [How to get started with Kafka, NodeJS & ExpressJS](https://github.com/senghor/express-kafka)
-  - [A Multi-Node Kafka Cluster in Docker using KRaft](https://github.com/senghor/kafka-in-docker)
-  - [A Starting Point for Writing a NodeJS Microservice](https://github.com/senghor/express-client)
+  - [A Multi-Node Apache Kafka Cluster in Docker and Node.js for Microservices](https://github.com/senghor/express-kafka)
+ 
  
 <h2> 🤳 Connect with me:</h2>
 
